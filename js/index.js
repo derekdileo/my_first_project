@@ -1,1 +1,1 @@
-console.log("Hello World From Script")
+console.log("FubarScript")
